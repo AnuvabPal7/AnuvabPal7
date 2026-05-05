@@ -44,11 +44,11 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 > Achieved **~95% classification accuracy** using Random Forest with preprocessing, feature selection and evaluation using precision, recall and F1-score.  
 > `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
-### 🤖 [RAG-Based Document Question Answering System](https://github.com/AnuvabPol7/NoteMaster/tree/main/rag-document-qa-system)
+### 🤖 [RAG-Based Document Question Answering System](https://github.com/AnuvabPal7/NoteMaster/tree/main/rag-document-qa-system)
 > Built a Retrieval-Augmented Generation system with HuggingFace embeddings, ChromaDB and local LLMs (Ollama) for intelligent document QA.  
 > `Python` `LangChain` `ChromaDB` `HuggingFace` `Ollama`
 
-### 📝 [Notes Management Web Application](https://github.com/AnuvabPol7/NoteMaster/tree/main/Flask-Web-App)
+### 📝 [Notes Management Web Application](https://github.com/AnuvabPal7/NoteMaster/tree/main/Flask-Web-App)
 > Full-stack notes app with user authentication, CRUD operations and dynamic JavaScript delete functionality.  
 > `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
