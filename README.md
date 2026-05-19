@@ -1,7 +1,7 @@
 # Hi there, I'm Anuvab Pal! 👋
 
 🎓 B.Tech CSE Graduate (2025) from Narula Institute of Technology, Kolkata  
-💼 Seeking roles in Software Development | Machine Learning | Data Engineering  
+💼 Aspiring Software Developer | Machine Learning Enthusiast | Open to SDE, ML and Backend Roles
 📍 Kolkata, India
 
 ---
@@ -77,3 +77,9 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuvab7903@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anuvab7903)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ANUVAB7/)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/AnuvabPal7/AnuvabPal7/blob/output/github-contribution-grid-snake.svg)
