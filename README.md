@@ -45,17 +45,17 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 
 ## 📂 Featured Projects
 
-### 🔐 [SecureSign — Digital Document Signature App](https://github.com/AnuvabPol7/digital-signature-app)
+### 🔐 [SecureSign — Digital Document Signature App](https://github.com/AnuvabPal7/digital-signature-app)
 > Full-stack e-signature system for secure PDF upload, signing and document sharing with JWT authentication.  
 > Built with Spring Boot + MySQL backend, React frontend with drag-and-drop signature placement, deployed via Docker, Render, Vercel and Railway.  
 > `Java` `Spring Boot` `React` `MySQL` `Docker` `Apache PDFBox`
 
-### 🤖 [RAG-Based Document Question Answering System](https://github.com/AnuvabPol7/rag-document-qa-system)
+### 🤖 [RAG-Based Document Question Answering System](https://github.com/AnuvabPal7/rag-document-qa-system)
 > Retrieval-Augmented Generation pipeline for semantic question answering over custom documents.  
 > HuggingFace embeddings + ChromaDB for semantic retrieval, Groq LLM (Llama 3) via LangChain, Streamlit interface with source traceability.  
 > `Python` `LangChain` `ChromaDB` `HuggingFace` `Groq` `Streamlit`
 
-### 🧠 [Random Forest based ML Approach for Brain Tumor Analysis](https://github.com/AnuvabPol7/brain-tumor-classifier)
+### 🧠 [Random Forest based ML Approach for Brain Tumor Analysis](https://github.com/AnuvabPal7/brain-tumor-classifier)
 > ML pipeline for brain MRI classification using GLCM texture feature engineering, achieving **91.77% accuracy**.  
 > Resolved training-inference inconsistencies via a unified feature extraction pipeline; applied SHAP for explainability; deployed via Streamlit.  
 > Research paper submitted to **AISC 2025 (Springer)**.  
@@ -92,4 +92,4 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/AnuvabPol7/AnuvabPol7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AnuvabPal7/AnuvabPal7/blob/output/github-contribution-grid-snake.svg)
