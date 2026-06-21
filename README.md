@@ -1,20 +1,20 @@
 # Hi there, I'm Anuvab Pal! 👋
 
 🎓 B.Tech CSE Graduate (2025) from Narula Institute of Technology, Kolkata  
-💼 Aspiring Software Developer | Machine Learning Enthusiast | Open to SDE, ML and Backend Roles  
+💼 Aspiring Software Developer | Backend & Security Enthusiast | Open to SDE and Backend Roles  
 📍 Kolkata, India
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer with hands-on experience in **Java, Python, Machine Learning and Full Stack Web Development**. I love building intelligent systems and solving real-world problems through code.
+I'm a passionate developer with hands-on experience in **Java, Spring Boot, full-stack development, and applied security**. I love building secure, deployed systems — from authentication and cryptography to retrieval-augmented NLP pipelines.
 
 - 🔭 Currently working on improving my **RAG-based Document QA System**
-- 🌱 Currently learning **LangChain, LLMs and advanced NLP**
-- 💬 Ask me about **Python, Java, Machine Learning, Spring Boot**
+- 🌱 Currently learning **System Design and advanced backend architecture**
+- 💬 Ask me about **Java, Spring Boot, Full-Stack Development, Applied Cryptography**
 - 📫 Reach me at: **anuvab7903@gmail.com**
-- ⚡ Fun fact: Our team's brain tumor research paper was submitted to AISC 2025 (Springer)!
+- ⚡ Fun fact: I built an offline UPI payment system secured with hybrid RSA-OAEP + AES-256-GCM encryption!
 
 ---
 
@@ -32,12 +32,10 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -46,20 +44,21 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 ## 📂 Featured Projects
 
 ### 🔐 [SecureSign — Digital Document Signature App](https://github.com/AnuvabPal7/digital-signature-app)
-> Full-stack e-signature system for secure PDF upload, signing and document sharing with JWT authentication.  
-> Built with Spring Boot + MySQL backend, React frontend with drag-and-drop signature placement, deployed via Docker, Render, Vercel and Railway.  
-> `Java` `Spring Boot` `React` `MySQL` `Docker` `Apache PDFBox`
+> Full-stack e-signature system for secure PDF upload, signing, and document sharing — built like a production app, not a tutorial clone.  
+> JWT authentication with BCrypt password hashing, Spring Boot + MySQL backend, React frontend with drag-and-drop signature placement, Apache PDFBox for PDF stamping, Resend API for email-based signing workflows.  
+> Deployed: React on Vercel, Spring Boot on Render (Docker), MySQL on Railway. [**Live Demo →**](https://digital-signature-app-gamma.vercel.app)  
+> `Java` `Spring Boot` `Spring Security` `React` `MySQL` `Docker` `Apache PDFBox`
+
+### 📡 [UPI Offline Mesh — Offline Payment Settlement System](https://github.com/AnuvabPal7/upi-offline-mesh)
+> Spring Boot backend simulating offline UPI payments routed through a Bluetooth-style mesh network — no internet required to settle.  
+> Payment packets secured against tampering using hybrid **RSA-OAEP + AES-256-GCM** encryption; idempotent settlement pipeline using atomic compare-and-set hashing for exactly-once processing under concurrent duplicates.  
+> Deployed via Docker on Render with MySQL on Railway, bridge endpoint secured with API key authentication.  
+> `Java` `Spring Boot` `RSA-OAEP` `AES-256-GCM` `MySQL` `Docker`
 
 ### 🤖 [RAG-Based Document Question Answering System](https://github.com/AnuvabPal7/rag-document-qa-system)
 > Retrieval-Augmented Generation pipeline for semantic question answering over custom documents.  
-> HuggingFace embeddings + ChromaDB for semantic retrieval, Groq LLM (Llama 3) via LangChain, Streamlit interface with source traceability.  
+> HuggingFace embeddings + ChromaDB for semantic retrieval, Groq LLM (Llama 3) via LangChain, category-based metadata filtering, Streamlit chat interface with source traceability and relevance scores.  
 > `Python` `LangChain` `ChromaDB` `HuggingFace` `Groq` `Streamlit`
-
-### 🧠 [Random Forest based ML Approach for Brain Tumor Analysis](https://github.com/AnuvabPal7/brain-tumor-classifier)
-> ML pipeline for brain MRI classification using GLCM texture feature engineering, achieving **91.77% accuracy**.  
-> Resolved training-inference inconsistencies via a unified feature extraction pipeline; applied SHAP for explainability; deployed via Streamlit.  
-> Research paper submitted to **AISC 2025 (Springer)**.  
-> `Python` `Scikit-learn` `SHAP` `Streamlit` `scikit-image`
 
 ---
 
@@ -67,7 +66,9 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 
 - 🏅 [Machine Learning with Python — IBM, Coursera](https://coursera.org/verify/TDVYJC64RADY)
 - 🏅 [Intro to Cybersecurity Tools & Cyber Attacks — IBM, Coursera](https://coursera.org/verify/PSS3K6PB5B3Y)
-- 🏅 [Object-Oriented Data Structures in C++ — U of Illinois, Coursera](https://coursera.org/verify/8JLJC5HECRLP)
+- 🏅 [Object-Oriented Data Structures in C++ — University of Illinois, Coursera](https://coursera.org/verify/8JLJC5HECRLP)
+- 🏅 Full Stack Web Development (MERN Stack) — Ardent Computech
+- 🏅 Artificial Intelligence using Python — Ardent Computech
 - 🏅 [Java Basic Certificate — HackerRank](https://www.hackerrank.com/certificates/f73fc56354fd)
 
 ---
@@ -76,8 +77,8 @@ I'm a passionate developer with hands-on experience in **Java, Python, Machine L
 
 - ⭐ **HackerRank** — 3-star rating in Java
 - 🥇 **LeetCode** — Top SQL 50 badge (50+ SQL problems solved)
-- 👨‍💻 Member, Institution of Engineers (India) — Students' Chapter, NIT
-- 📄 Co-authored research paper submitted to **AISC 2025 (Springer)**
+- 👨‍💻 Member, Institution of Engineers (India) — Students' Chapter, NIT (2025)
+- 🏭 Industrial Visit at Ardent Computech Pvt. Ltd., organised by CSE Dept., NIT (July 2023)
 
 ---
 
