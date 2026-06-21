@@ -67,8 +67,6 @@ I'm a passionate developer with hands-on experience in **Java, Spring Boot, full
 - 🏅 [Machine Learning with Python — IBM, Coursera](https://coursera.org/verify/TDVYJC64RADY)
 - 🏅 [Intro to Cybersecurity Tools & Cyber Attacks — IBM, Coursera](https://coursera.org/verify/PSS3K6PB5B3Y)
 - 🏅 [Object-Oriented Data Structures in C++ — University of Illinois, Coursera](https://coursera.org/verify/8JLJC5HECRLP)
-- 🏅 Full Stack Web Development (MERN Stack) — Ardent Computech
-- 🏅 Artificial Intelligence using Python — Ardent Computech
 - 🏅 [Java Basic Certificate — HackerRank](https://www.hackerrank.com/certificates/f73fc56354fd)
 
 ---
